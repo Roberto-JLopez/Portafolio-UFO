@@ -19,7 +19,7 @@ const educacion = ref([
   {Integrante: 'Gomez Jose', title: 'Especialización en Inteligencia Artificial y Machine Learning (Python, TensorFlow)', descripcion: 'Centrado en la creación de modelos de machine learning con Python y TensorFlow, abordando temas como redes neuronales y aprendizaje profundo, y cómo aplicarlos en problemas reales como reconocimiento de imágenes y procesamiento de texto.', enlace:'http:www.direccion.com'},
   {Integrante: 'Lopez Roberto', title: 'Certificación en Ciencia de Datos (Python, SQL, visualización de datos)', descripcion: 'Enfocado en el análisis y la visualización de datos usando Python y SQL. Roberto aprendería a manejar grandes volúmenes de datos, interpretar resultados y crear gráficos con herramientas como Pandas y Matplotlib.', enlace:'http:www.direccion.com'},
   {Integrante: 'Noblegas Victor', title: 'Proyecto Personal - Aplicación de Gestión de Tareas', descripcion: ' Enfocado en la integración continua y despliegue continuo (CI/CD), Docker y la infraestructura en la nube, especialmente en AWS, permitiéndole optimizar el desarrollo y la implementación de aplicaciones.', enlace:'http:www.direccion.com'},
-  {Integrante: 'Nuñes Gimena', title: 'Curso de Desarrollo de Aplicaciones Móviles (Flutter, Android, iOS)', descripcion: 'Completé un curso en línea sobre fundamentos de programación, donde aprendí lenguajes como Python y Java.', enlace:'http:www.direccion.com'}
+  {Integrante: 'Nuñez Gimena', title: 'Curso de Desarrollo de Aplicaciones Móviles (Flutter, Android, iOS)', descripcion: 'Completé un curso en línea sobre fundamentos de programación, donde aprendí lenguajes como Python y Java.', enlace:'http:www.direccion.com'}
 ]);
 </script>
 
